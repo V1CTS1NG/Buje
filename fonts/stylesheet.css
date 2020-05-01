@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gentium Book Basic';
+    src: url('GentiumBookBasic.eot');
+    src: url('GentiumBookBasic.eot?#iefix') format('embedded-opentype'),
+        url('GentiumBookBasic.woff2') format('woff2'),
+        url('GentiumBookBasic.woff') format('woff'),
+        url('GentiumBookBasic.ttf') format('truetype'),
+        url('GentiumBookBasic.svg#GentiumBookBasic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
